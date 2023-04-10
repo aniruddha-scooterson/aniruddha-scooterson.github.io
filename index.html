@@ -13,16 +13,11 @@
 			align-items: center;
 			flex-direction: column;
 		}
-		.circle {
+		.video {
 			width: 200px;
 			height: 200px;
 			border-radius: 50%;
-			background-image: url("https://via.placeholder.com/200x200.png?text=Scooterson");
-			background-position: center;
-			background-size: cover;
-			display: flex;
-			justify-content: center;
-			align-items: center;
+			overflow: hidden;
 			margin-bottom: 20px;
 		}
 		.name {
@@ -34,7 +29,9 @@
 	</style>
 </head>
 <body>
-	<div class="circle"></div>
+	<div class="video">
+		<video src="https://cdn.scooterson.com/video/rolley-scooterson-extraordinary-materials-white.mp4" autoplay loop muted></video>
+	</div>
 	<div class="name">Scooterson</div>
 </body>
 </html>
