@@ -1,0 +1,82 @@
+{
+  "vehicles": [
+    {
+      "id": 1001,
+      "owner_id": 101,
+      "name": "Dobbey Rolley+",
+      "vehicle_uuid": "f2661657-2237-45fa-9701-809fef6617c1",
+      "vehicle_pubkey": "Zs6ujAGz31GUnaAR3H7yjJQWAfjKT4tSzQxx9wT0KRI=",
+      "vehicle_info": {
+        "model": "Rolley",
+        "type": "Scooter",
+        "manufacture": "Scooterson",
+        "model_year": 2023,
+        "color": "blue",
+        "dimension": {
+          "width": 700,
+          "height": 1040,
+          "length": 1620
+        },
+        "parameters": {
+          "top_speed": 30,
+          "mileage": 80,
+          "power": 2
+        },
+        "configuration": {
+          "sn": "2323232121",
+          "motor": "pleasjsak",
+          "ecu": "sds23232232",
+          "gsm": "323242422",
+          "gps": "255:255:255.0"
+        }
+      },
+      "vehicle_status": {
+        "battery_percentage": 86,
+        "power_on": false,
+        "sharing_on": true,
+        "alarm_on": true,
+        "last_sync": "12:40:31",
+        "is_occupied": false
+      }
+    },
+    {
+      "id": 1002,
+      "owner_id": 102,
+      "name": "Americano Rolley",
+      "vehicle_uuid": "91d49019-97be-4136-ae7e-28871e9874a6",
+      "vehicle_pubkey": "Qs1rCKgCcs2PHQFDHRzvca7ylAYISIoDCHhMZOEyNIQ=",
+      "vehicle_info": {
+        "model": "Icon",
+        "type": "Golf Cart",
+        "manufacture": "Scooterson",
+        "model_year": 2023,
+        "color": "white",
+        "dimension": {
+          "width": 700,
+          "height": 1040,
+          "length": 1620
+        },
+        "parameters": {
+          "top_speed": 30,
+          "mileage": 80,
+          "power": 2
+        },
+        "configuration": {
+          "sn": "2323232121",
+          "motor": "pleasjsak",
+          "ecu": "sds23232232",
+          "gsm": "323242422",
+          "gps": "255:255:255.0"
+        }
+      },
+      "vehicle_status": {
+        "battery_percentage": 70,
+        "power_on": false,
+        "sharing_on": false,
+        "alarm_on": true,
+        "last_sync": "12:40:31",
+        "is_occupied": false
+      }
+    }
+  ]
+}
