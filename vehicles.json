@@ -4,8 +4,8 @@
       "vehicle_name": "A-Orange",
       "vehicle_id": 2001,
       "vehicle_owner_id": null,
-      "vehicle_uuid": "0818a87e-1f2a-486b-beOb-a1481a18476d",
-      "vehicle_pub_key": "wveFrDR9TsaNSoDdZvh89YG1GTW/UQpzYtuRXMyhHXk=",
+      "vehicle_uuid": "0818a87e-1f2a-486b-be0b-a1481a18476d",
+      "vehicle_pub_key": "wveFrDR9TsaNSoDdZvh8qYG1GTW/UQpzYtuRXMyhHXk=",
       "vehicle_info": {
         "model": "RolleyPlus",
         "type": "Scooter",
@@ -47,7 +47,7 @@
       "vehicle_id": 2002,
       "vehicle_owner_id": 1,
       "vehicle_uuid": "a25d40be-fc78-484e-876a-e7ac555e4a08",
-      "vehicle_pub_key": "5DGPduMz36hSvPCfCPBsuG078LEBdBtLVPhDdoe3xYE=",
+      "vehicle_pub_key": "5DGPduMz36hSvPCfCPBsuGO78LEBdBtLVPhDdoe3xYE=",
       "vehicle_info": {
         "model": "RolleyPlus",
         "type": "Scooter",
@@ -89,7 +89,7 @@
       "vehicle_id": 2003,
       "vehicle_owner_id": 1,
       "vehicle_uuid": "13ff8c9b-ed45-4610-a636-63783345f904",
-      "vehicle_pub_key": "OM7i+BpP7jBdgahd/Y3GHIOdIJiW6XYlecDQtpOMcr8=",
+      "vehicle_pub_key": "0M7i+BpP7jBdgahd/Y3GHlOdlJjW6XYlecDQtpOMcr8=",
       "vehicle_info": {
         "model": "RolleyPlus",
         "type": "Scooter",
@@ -130,7 +130,7 @@
       "vehicle_name": "A-White",
       "vehicle_id": 2004,
       "vehicle_owner_id": 1,
-      "vehicle_uuid": "089be6d3-670-4479-abe6-62d0776400e3",
+      "vehicle_uuid": "089be6d3-b70f-4479-abe6-b2d0776400e3",
       "vehicle_pub_key": "XF+rNKWT7F+JuixV7VbhYWBkJYFSUwHzwKmcsLI4JGk=",
       "vehicle_info": {
         "model": "RolleyPlus",
@@ -214,8 +214,8 @@
       "vehicle_name": "Latte",
       "vehicle_id": 1002,
       "vehicle_owner_id": 1,
-      "vehicle_uuid": "4c5e14a3-5294-4e87-be64-7716d95999d",
-      "vehicle_pub_key": "WgZcNB5yBjqKFCi40Y4kg|ELZKgIpC4zUuaRpCJrUR8=",
+      "vehicle_uuid": "4c5c14a3-5294-4e87-be64-77f1bd95999d",
+      "vehicle_pub_key": "WgZcNB5yBjqKFCi40Y4kgIELZKgIpC4zUuaRpCJrUR8=",
       "vehicle_info": {
         "model": "RolleyPlus",
         "type": "Scooter",
@@ -340,8 +340,8 @@
       "vehicle_name": "CoffeeMix",
       "vehicle_id": 1005,
       "vehicle_owner_id": 1,
-      "vehicle_uuid": "6696f5ac-3d55-4e91-9c18-7bafa20b0abf",
-      "vehicle_pub_key": "kLLcfKsrRIYD9ulzwX50RIOBKLMSE8qYPikkRpUhsHg=",
+      "vehicle_uuid": "6b96f5ac-3d55-4e91-9c18-7bafa20b0abf",
+      "vehicle_pub_key": "kLLcfKsrRlYD9ulzwX5oRl0BKLMSE8qYPikkRpUhsHg=",
       "vehicle_info": {
         "model": "RolleyPlus",
         "type": "Scooter",
