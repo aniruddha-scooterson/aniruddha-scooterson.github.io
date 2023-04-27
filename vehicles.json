@@ -1,17 +1,59 @@
 {
   "vehicles": [
     {
-      "id": 1001,
-      "owner_id": 101,
-      "name": "Dobbey Rolley+",
-      "vehicle_uuid": "ac89301b-fb6a-4313-a475-35eeb73ca182",
-      "vehicle_pubkey": "Zs6ujAGz31GUnaAR3H7yjJQWAfjKT4tSzQxx9wTOKRI=",
+      "vehicle_name": "A-Orange",
+      "vehicle_id": 2001,
+      "vehicle_owner_id": null,
+      "vehicle_uuid": "0818a87e-1f2a-486b-beOb-a1481a18476d",
+      "vehicle_pub_key": "wveFrDR9TsaNSoDdZvh89YG1GTW/UQpzYtuRXMyhHXk=",
       "vehicle_info": {
-        "model": "Rolley",
+        "model": "RolleyPlus",
         "type": "Scooter",
         "manufacture": "Scooterson",
         "model_year": 2023,
-        "color": "blue",
+        "color": "Orange",
+        "dimension": {
+          "width": 700,
+          "height": 1040,
+          "length": 1620
+        },
+        "parameters": {
+          "top_speed": 30,
+          "mileage": 80,
+          "power": 2
+        },
+        "configuration": {
+          "sn": "2323232121",
+          "motor": "pleasjsak",
+          "ecu": "sds23232232",
+          "gsm": "323242422",
+          "gps": "255:255:255.0"
+        }
+      },
+      "vehicle_status": {
+        "battery_percentage": 100,
+        "power_on": false,
+        "sharing_on": false,
+        "alarm_on": true,
+        "last_sync": "12:40:31",
+        "is_occupied": false,
+        "odo_meter": 324,
+        "trip_meter": 109,
+        "gear_mode": 16
+      }
+    },
+    {
+      "vehicle_name": "A-Yellow",
+      "vehicle_id": 2002,
+      "vehicle_owner_id": 1,
+      "vehicle_uuid": "a25d40be-fc78-484e-876a-e7ac555e4a08",
+      "vehicle_pub_key": "5DGPduMz36hSvPCfCPBsuG078LEBdBtLVPhDdoe3xYE=",
+      "vehicle_info": {
+        "model": "RolleyPlus",
+        "type": "Scooter",
+        "manufacture": "Scooterson",
+        "model_year": 2023,
+        "color": "Yellow",
         "dimension": {
           "width": 700,
           "height": 1040,
@@ -36,21 +78,24 @@
         "sharing_on": true,
         "alarm_on": true,
         "last_sync": "12:40:31",
-        "is_occupied": false
+        "is_occupied": false,
+        "odo_meter": 324,
+        "trip_meter": 109,
+        "gear_mode": 16
       }
     },
     {
-      "id": 1002,
-      "owner_id": 102,
-      "name": "Americano Rolley",
-      "vehicle_uuid": "91d49019-97be-4136-ae7e-28871e9874a6",
-      "vehicle_pubkey": "Qs1rCKgCcs2PHQFDHRzvca7ylAYISIoDCHhMZOEyNIQ=",
+      "vehicle_name": "A-Purple",
+      "vehicle_id": 2003,
+      "vehicle_owner_id": 1,
+      "vehicle_uuid": "13ff8c9b-ed45-4610-a636-63783345f904",
+      "vehicle_pub_key": "OM7i+BpP7jBdgahd/Y3GHIOdIJiW6XYlecDQtpOMcr8=",
       "vehicle_info": {
-        "model": "Icon",
-        "type": "Golf Cart",
+        "model": "RolleyPlus",
+        "type": "Scooter",
         "manufacture": "Scooterson",
         "model_year": 2023,
-        "color": "white",
+        "color": "Purple",
         "dimension": {
           "width": 700,
           "height": 1040,
@@ -70,12 +115,267 @@
         }
       },
       "vehicle_status": {
-        "battery_percentage": 70,
+        "battery_percentage": 86,
         "power_on": false,
-        "sharing_on": false,
+        "sharing_on": true,
         "alarm_on": true,
         "last_sync": "12:40:31",
-        "is_occupied": false
+        "is_occupied": false,
+        "odo_meter": 324,
+        "trip_meter": 109,
+        "gear_mode": 16
+      }
+    },
+    {
+      "vehicle_name": "A-White",
+      "vehicle_id": 2004,
+      "vehicle_owner_id": 1,
+      "vehicle_uuid": "089be6d3-670-4479-abe6-62d0776400e3",
+      "vehicle_pub_key": "XF+rNKWT7F+JuixV7VbhYWBkJYFSUwHzwKmcsLI4JGk=",
+      "vehicle_info": {
+        "model": "RolleyPlus",
+        "type": "Scooter",
+        "manufacture": "Scooterson",
+        "model_year": 2023,
+        "color": "White",
+        "dimension": {
+          "width": 700,
+          "height": 1040,
+          "length": 1620
+        },
+        "parameters": {
+          "top_speed": 30,
+          "mileage": 80,
+          "power": 2
+        },
+        "configuration": {
+          "sn": "2323232121",
+          "motor": "pleasjsak",
+          "ecu": "sds23232232",
+          "gsm": "323242422",
+          "gps": "255:255:255.0"
+        }
+      },
+      "vehicle_status": {
+        "battery_percentage": 86,
+        "power_on": false,
+        "sharing_on": true,
+        "alarm_on": true,
+        "last_sync": "12:40:31",
+        "is_occupied": false,
+        "odo_meter": 324,
+        "trip_meter": 109,
+        "gear_mode": 16
+      }
+    },
+    {
+      "vehicle_name": "Anirudh's Dobby",
+      "vehicle_id": 1001,
+      "vehicle_owner_id": 1,
+      "vehicle_uuid": "ac89301b-fb6a-4313-a475-35eeb73ca182",
+      "vehicle_pub_key": "Zs6ujAGz31GUnaAR3H7yjJQWAfjKT4tSzQxx9wTOKRI=",
+      "vehicle_info": {
+        "model": "RolleyPlus",
+        "type": "Scooter",
+        "manufacture": "Scooterson",
+        "model_year": 2023,
+        "color": "Blue",
+        "dimension": {
+          "width": 700,
+          "height": 1040,
+          "length": 1620
+        },
+        "parameters": {
+          "top_speed": 30,
+          "mileage": 80,
+          "power": 2
+        },
+        "configuration": {
+          "sn": "2323232121",
+          "motor": "pleasjsak",
+          "ecu": "sds23232232",
+          "gsm": "323242422",
+          "gps": "255:255:255.0"
+        }
+      },
+      "vehicle_status": {
+        "battery_percentage": 86,
+        "power_on": false,
+        "sharing_on": true,
+        "alarm_on": true,
+        "last_sync": "12:40:31",
+        "is_occupied": false,
+        "odo_meter": 324,
+        "trip_meter": 109,
+        "gear_mode": 16
+      }
+    },
+    {
+      "vehicle_name": "Latte",
+      "vehicle_id": 1002,
+      "vehicle_owner_id": 1,
+      "vehicle_uuid": "4c5e14a3-5294-4e87-be64-7716d95999d",
+      "vehicle_pub_key": "WgZcNB5yBjqKFCi40Y4kg|ELZKgIpC4zUuaRpCJrUR8=",
+      "vehicle_info": {
+        "model": "RolleyPlus",
+        "type": "Scooter",
+        "manufacture": "Scooterson",
+        "model_year": 2023,
+        "color": "White",
+        "dimension": {
+          "width": 700,
+          "height": 1040,
+          "length": 1620
+        },
+        "parameters": {
+          "top_speed": 30,
+          "mileage": 80,
+          "power": 2
+        },
+        "configuration": {
+          "sn": "2323232121",
+          "motor": "pleasjsak",
+          "ecu": "sds23232232",
+          "gsm": "323242422",
+          "gps": "255:255:255.0"
+        }
+      },
+      "vehicle_status": {
+        "battery_percentage": 86,
+        "power_on": false,
+        "sharing_on": true,
+        "alarm_on": true,
+        "last_sync": "12:40:31",
+        "is_occupied": true,
+        "odo_meter": 324,
+        "trip_meter": 109,
+        "gear_mode": 16
+      }
+    },
+    {
+      "vehicle_name": "Americano",
+      "vehicle_id": 1003,
+      "vehicle_owner_id": 1,
+      "vehicle_uuid": "4f4c2570-536a-4f7d-a913-1cfaf9a7b57",
+      "vehicle_pub_key": "bFvDohlf2yXUXOQVrLUYTpV1u+pniDcknUxaPyjHzh|=",
+      "vehicle_info": {
+        "model": "Icon",
+        "type": "Golf Cart",
+        "manufacture": "Scooterson",
+        "model_year": 2023,
+        "color": "Red",
+        "dimension": {
+          "width": 700,
+          "height": 1040,
+          "length": 1620
+        },
+        "parameters": {
+          "top_speed": 30,
+          "mileage": 80,
+          "power": 2
+        },
+        "configuration": {
+          "sn": "2323232121",
+          "motor": "pleasjsak",
+          "ecu": "sds23232232",
+          "gsm": "323242422",
+          "gps": "255:255:255.0"
+        }
+      },
+      "vehicle_status": {
+        "battery_percentage": 86,
+        "power_on": false,
+        "sharing_on": true,
+        "alarm_on": true,
+        "last_sync": "12:40:31",
+        "is_occupied": true,
+        "odo_meter": 324,
+        "trip_meter": 109,
+        "gear_mode": 16
+      }
+    },
+    {
+      "vehicle_name": "Cappuccino",
+      "vehicle_id": 1005,
+      "vehicle_owner_id": 1,
+      "vehicle_uuid": "989a0d6a-3c60-4564-b6b0-63fd78fc779c",
+      "vehicle_pub_key": "i2RqB17pYWqkcTgiZSA9Ym6zXn1k92pP/UuqE2fRh94=",
+      "vehicle_info": {
+        "model": "RolleyPlus",
+        "type": "Scooter",
+        "manufacture": "Scooterson",
+        "model_year": 2023,
+        "color": "White",
+        "dimension": {
+          "width": 700,
+          "height": 1040,
+          "length": 1620
+        },
+        "parameters": {
+          "top_speed": 30,
+          "mileage": 80,
+          "power": 2
+        },
+        "configuration": {
+          "sn": "2323232121",
+          "motor": "pleasjsak",
+          "ecu": "sds23232232",
+          "gsm": "323242422",
+          "gps": "255:255:255.0"
+        }
+      },
+      "vehicle_status": {
+        "battery_percentage": 86,
+        "power_on": false,
+        "sharing_on": true,
+        "alarm_on": true,
+        "last_sync": "12:40:31",
+        "is_occupied": true,
+        "odo_meter": 324,
+        "trip_meter": 109,
+        "gear_mode": 16
+      }
+    },
+    {
+      "vehicle_name": "CoffeeMix",
+      "vehicle_id": 1005,
+      "vehicle_owner_id": 1,
+      "vehicle_uuid": "6696f5ac-3d55-4e91-9c18-7bafa20b0abf",
+      "vehicle_pub_key": "kLLcfKsrRIYD9ulzwX50RIOBKLMSE8qYPikkRpUhsHg=",
+      "vehicle_info": {
+        "model": "RolleyPlus",
+        "type": "Scooter",
+        "manufacture": "Scooterson",
+        "model_year": 2023,
+        "color": "White",
+        "dimension": {
+          "width": 700,
+          "height": 1040,
+          "length": 1620
+        },
+        "parameters": {
+          "top_speed": 30,
+          "mileage": 80,
+          "power": 2
+        },
+        "configuration": {
+          "sn": "2323232121",
+          "motor": "pleasjsak",
+          "ecu": "sds23232232",
+          "gsm": "323242422",
+          "gps": "255:255:255.0"
+        }
+      },
+      "vehicle_status": {
+        "battery_percentage": 86,
+        "power_on": false,
+        "sharing_on": true,
+        "alarm_on": true,
+        "last_sync": "12:40:31",
+        "is_occupied": true,
+        "odo_meter": 324,
+        "trip_meter": 109,
+        "gear_mode": 16
       }
     }
   ]
