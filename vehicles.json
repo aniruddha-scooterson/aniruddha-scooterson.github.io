@@ -377,6 +377,48 @@
         "trip_meter": 109,
         "gear_mode": 16
       }
+    },
+    {
+      "vehicle_name": "Wei IconX",
+      "vehicle_id": 1023,
+      "vehicle_owner_id": 1,
+      "vehicle_uuid": "7389fb56-c262-4ba7-87a3-5f34c59fc9da",
+      "vehicle_pub_key": "PXViKQ06bS1BRwQq3rGSGll+Muj1sBTl7bMgp8AJ/C8=",
+      "vehicle_info": {
+        "model": "Icon",
+        "type": "Golf Cart",
+        "manufacture": "Scooterson",
+        "model_year": 2023,
+        "color": "Red",
+        "dimension": {
+          "width": 700,
+          "height": 1040,
+          "length": 1620
+        },
+        "parameters": {
+          "top_speed": 30,
+          "mileage": 80,
+          "power": 2
+        },
+        "configuration": {
+          "sn": "2323232121",
+          "motor": "pleasjsak",
+          "ecu": "sds23232232",
+          "gsm": "323242422",
+          "gps": "255:255:255.0"
+        }
+      },
+      "vehicle_status": {
+        "battery_percentage": 86,
+        "power_on": false,
+        "sharing_on": true,
+        "alarm_on": true,
+        "last_sync": "12:40:31",
+        "is_occupied": true,
+        "odo_meter": 324,
+        "trip_meter": 109,
+        "gear_mode": 16
+      }
     }
   ]
 }
