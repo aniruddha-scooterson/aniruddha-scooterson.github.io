@@ -3,7 +3,7 @@
     {
       "vehicle_name": "A-Orange",
       "vehicle_id": 2001,
-      "vehicle_owner_id": null,
+      "vehicle_owner_id": 456,
       "vehicle_uuid": "0818a87e-1f2a-486b-be0b-a1481a18476d",
       "vehicle_pub_key": "wveFrDR9TsaNSoDdZvh8qYG1GTW/UQpzYtuRXMyhHXk=",
       "vehicle_info": {
