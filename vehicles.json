@@ -6,6 +6,39 @@
       "vehicle_owner_id": 456,
       "vehicle_uuid": "0818a87e-1f2a-486b-be0b-a1481a18476d",
       "vehicle_pub_key": "wveFrDR9TsaNSoDdZvh8qYG1GTW/UQpzYtuRXMyhHXk=",
+      "sharedVehicleData": {
+        "isOcuupied": false,
+        "sharingEnabled": true,
+        "isRequestPending": false,
+        "maxAssitLevel": "level2",
+        "vehicleOwnerProfile": {
+          "addressLine1": "789 Elm Street",
+          "addressLine2": "Unit 12-34",
+          "city": "Singapore",
+          "state": "",
+          "zipcode": "123456",
+          "email": "john.doe@example.com",
+          "mobileNumber": "+65 9123 4567",
+          "name": {
+            "firstName": "Deepansh",
+            "lastName": "Jain"
+          },
+          "userId": 456,
+          "birthDate": "1990-06-15",
+          "gender": "male",
+          "weight": 70,
+          "profilePicUrlString": "https://i1.sndcdn.com/artworks-000128560053-3cpc8a-t500x500.jpg",
+          "profileImage": null,
+          "emailVerified": true,
+          "userAddress": {
+            "latitude": "1.3521",
+            "longitude": "103.8198"
+          },
+          "fullName": "Deepansh Jain",
+          "address": "789 Elm Street Unit 12-34",
+          "weightInKg": 70
+        }
+      },
       "vehicle_info": {
         "model": "RolleyPlus",
         "type": "Scooter",
@@ -216,6 +249,39 @@
       "vehicle_owner_id": 1,
       "vehicle_uuid": "4c5c14a3-5294-4e87-be64-77f1bd95999d",
       "vehicle_pub_key": "WgZcNB5yBjqKFCi40Y4kgIELZKgIpC4zUuaRpCJrUR8=",
+      "sharedVehicleData": {
+        "isOcuupied": true,
+        "sharingEnabled": true,
+        "isRequestPending": false,
+        "maxAssitLevel": "level2",
+        "vehicleOwnerProfile": {
+          "addressLine1": "789 Elm Street",
+          "addressLine2": "Unit 12-34",
+          "city": "Singapore",
+          "state": "",
+          "zipcode": "123456",
+          "email": "john.doe@example.com",
+          "mobileNumber": "+65 9123 4567",
+          "name": {
+            "firstName": "Deepansh",
+            "lastName": "Jain"
+          },
+          "userId": 456,
+          "birthDate": "1990-06-15",
+          "gender": "male",
+          "weight": 70,
+          "profilePicUrlString": "https://i1.sndcdn.com/artworks-000128560053-3cpc8a-t500x500.jpg",
+          "profileImage": null,
+          "emailVerified": true,
+          "userAddress": {
+            "latitude": "1.3521",
+            "longitude": "103.8198"
+          },
+          "fullName": "Deepansh Jain",
+          "address": "789 Elm Street Unit 12-34",
+          "weightInKg": 70
+        }
+      },
       "vehicle_info": {
         "model": "RolleyPlus",
         "type": "Scooter",
@@ -300,6 +366,39 @@
       "vehicle_owner_id": 1,
       "vehicle_uuid": "989a0d6a-3c60-4564-b6b0-63fd78fc779c",
       "vehicle_pub_key": "i2RqB17pYWqkcTgiZSA9Ym6zXn1k92pP/UuqE2fRh94=",
+            "sharedVehicleData": {
+        "isOcuupied": false,
+        "sharingEnabled": false,
+        "isRequestPending": false,
+        "maxAssitLevel": "level2",
+        "vehicleOwnerProfile": {
+          "addressLine1": "789 Elm Street",
+          "addressLine2": "Unit 12-34",
+          "city": "Singapore",
+          "state": "",
+          "zipcode": "123456",
+          "email": "john.doe@example.com",
+          "mobileNumber": "+65 9123 4567",
+          "name": {
+            "firstName": "Deepansh",
+            "lastName": "Jain"
+          },
+          "userId": 456,
+          "birthDate": "1990-06-15",
+          "gender": "male",
+          "weight": 70,
+          "profilePicUrlString": "https://i1.sndcdn.com/artworks-000128560053-3cpc8a-t500x500.jpg",
+          "profileImage": null,
+          "emailVerified": true,
+          "userAddress": {
+            "latitude": "1.3521",
+            "longitude": "103.8198"
+          },
+          "fullName": "Deepansh Jain",
+          "address": "789 Elm Street Unit 12-34",
+          "weightInKg": 70
+        }
+      },
       "vehicle_info": {
         "model": "RolleyPlus",
         "type": "Scooter",
@@ -342,6 +441,39 @@
       "vehicle_owner_id": 1,
       "vehicle_uuid": "6b96f5ac-3d55-4e91-9c18-7bafa20b0abf",
       "vehicle_pub_key": "kLLcfKsrRlYD9ulzwX5oRl0BKLMSE8qYPikkRpUhsHg=",
+            "sharedVehicleData": {
+        "isOcuupied": false,
+        "sharingEnabled": false,
+        "isRequestPending": true,
+        "maxAssitLevel": "level2",
+        "vehicleOwnerProfile": {
+          "addressLine1": "789 Elm Street",
+          "addressLine2": "Unit 12-34",
+          "city": "Singapore",
+          "state": "",
+          "zipcode": "123456",
+          "email": "john.doe@example.com",
+          "mobileNumber": "+65 9123 4567",
+          "name": {
+            "firstName": "Deepansh",
+            "lastName": "Jain"
+          },
+          "userId": 456,
+          "birthDate": "1990-06-15",
+          "gender": "male",
+          "weight": 70,
+          "profilePicUrlString": "https://i1.sndcdn.com/artworks-000128560053-3cpc8a-t500x500.jpg",
+          "profileImage": null,
+          "emailVerified": true,
+          "userAddress": {
+            "latitude": "1.3521",
+            "longitude": "103.8198"
+          },
+          "fullName": "Deepansh Jain",
+          "address": "789 Elm Street Unit 12-34",
+          "weightInKg": 70
+        }
+      },
       "vehicle_info": {
         "model": "RolleyPlus",
         "type": "Scooter",
