@@ -10,7 +10,7 @@
         "isOcuupied": false,
         "sharingEnabled": true,
         "isRequestPending": false,
-        "maxAssitLevel": "level2",
+        "maxAssitLevel": 2,
         "vehicleOwnerProfile": {
           "addressLine1": "789 Elm Street",
           "addressLine2": "Unit 12-34",
@@ -253,7 +253,7 @@
         "isOcuupied": true,
         "sharingEnabled": true,
         "isRequestPending": false,
-        "maxAssitLevel": "level2",
+        "maxAssitLevel": 2,
         "vehicleOwnerProfile": {
           "addressLine1": "789 Elm Street",
           "addressLine2": "Unit 12-34",
@@ -366,11 +366,11 @@
       "vehicle_owner_id": 1,
       "vehicle_uuid": "989a0d6a-3c60-4564-b6b0-63fd78fc779c",
       "vehicle_pub_key": "i2RqB17pYWqkcTgiZSA9Ym6zXn1k92pP/UuqE2fRh94=",
-            "sharedVehicleData": {
+      "sharedVehicleData": {
         "isOcuupied": false,
         "sharingEnabled": false,
         "isRequestPending": false,
-        "maxAssitLevel": "level2",
+        "maxAssitLevel": 2,
         "vehicleOwnerProfile": {
           "addressLine1": "789 Elm Street",
           "addressLine2": "Unit 12-34",
@@ -441,11 +441,11 @@
       "vehicle_owner_id": 1,
       "vehicle_uuid": "6b96f5ac-3d55-4e91-9c18-7bafa20b0abf",
       "vehicle_pub_key": "kLLcfKsrRlYD9ulzwX5oRl0BKLMSE8qYPikkRpUhsHg=",
-            "sharedVehicleData": {
+      "sharedVehicleData": {
         "isOcuupied": false,
         "sharingEnabled": false,
         "isRequestPending": true,
-        "maxAssitLevel": "level2",
+        "maxAssitLevel": 2,
         "vehicleOwnerProfile": {
           "addressLine1": "789 Elm Street",
           "addressLine2": "Unit 12-34",
