@@ -597,9 +597,42 @@
     {
       "vehicle_name": "Wei IconX",
       "vehicle_id": 1023,
-      "vehicle_owner_id": 1,
+      "vehicle_owner_id": 456,
       "vehicle_uuid": "7389fb56-c262-4ba7-87a3-5f34c59fc9da",
       "vehicle_pub_key": "PXViKQ06bS1BRwQq3rGSGll+Muj1sBTl7bMgp8AJ/C8=",
+      "shared_vehicle_data": {
+        "is_ocuupied": false,
+        "sharing_enabled": true,
+        "is_request_pending": false,
+        "max_assit_level": 2,
+        "vehicle_owner_profile": {
+          "address_line1": "789 Elm Street",
+          "address_line2": "Unit 12-34",
+          "city": "Singapore",
+          "state": "",
+          "zipcode": "123456",
+          "email": "john.doe@example.com",
+          "mobile_number": "+65 9123 4567",
+          "name": {
+            "first_name": "Deepansh",
+            "last_name": "Jain"
+          },
+          "user_id": 456,
+          "birth_date": "1990-06-15",
+          "gender": "male",
+          "weight": 70,
+          "profile_pic_url_string": "https://i1.sndcdn.com/artworks-000128560053-3cpc8a-t500x500.jpg",
+          "profile_image": null,
+          "email_verified": true,
+          "user_address": {
+            "latitude": "1.3521",
+            "longitude": "103.8198"
+          },
+          "full_name": "Deepansh Jain",
+          "address": "789 Elm Street Unit 12-34",
+          "weight_in_kg": 70
+        }
+      },
       "vehicle_info": {
         "model": "Icon",
         "type": "Golf Cart",
