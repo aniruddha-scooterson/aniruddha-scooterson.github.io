@@ -10,6 +10,7 @@
         "is_ocuupied": false,
         "sharing_enabled": true,
         "is_request_pending": false,
+        "idle_time_option": 60,
         "max_assit_level": 2,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
@@ -85,6 +86,7 @@
         "is_ocuupied": false,
         "sharing_enabled": true,
         "is_request_pending": false,
+        "idle_time_option": 60,
         "max_assit_level": 2,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
@@ -202,6 +204,7 @@
         "is_ocuupied": false,
         "sharing_enabled": true,
         "is_request_pending": false,
+        "idle_time_option": 60,
         "max_assit_level": 2,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
@@ -403,6 +406,7 @@
         "is_ocuupied": true,
         "sharing_enabled": true,
         "is_request_pending": false,
+        "idle_time_option": 60,
         "max_assit_level": 3,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
@@ -520,6 +524,7 @@
         "is_ocuupied": false,
         "sharing_enabled": false,
         "is_request_pending": false,
+        "idle_time_option": 60,
         "max_assit_level": 2,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
@@ -595,6 +600,7 @@
         "is_ocuupied": false,
         "sharing_enabled": false,
         "is_request_pending": true,
+        "idle_time_option": 60,
         "max_assit_level": 2,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
@@ -670,6 +676,7 @@
         "is_ocuupied": false,
         "sharing_enabled": true,
         "is_request_pending": false,
+        "idle_time_option": 60,
         "max_assit_level": 2,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
@@ -787,6 +794,7 @@
         "is_ocuupied": false,
         "sharing_enabled": true,
         "is_request_pending": false,
+        "idle_time_option": 60,
         "max_assit_level": 2,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
@@ -862,6 +870,7 @@
         "is_ocuupied": false,
         "sharing_enabled": true,
         "is_request_pending": false,
+        "idle_time_option": 60,
         "max_assit_level": 2,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
@@ -937,6 +946,7 @@
         "is_ocuupied": false,
         "sharing_enabled": true,
         "is_request_pending": false,
+        "idle_time_option": 60,
         "max_assit_level": 2,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
@@ -1012,6 +1022,7 @@
         "is_ocuupied": false,
         "sharing_enabled": true,
         "is_request_pending": false,
+        "idle_time_option": 60,
         "max_assit_level": 2,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
