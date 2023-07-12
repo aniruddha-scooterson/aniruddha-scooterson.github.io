@@ -197,7 +197,7 @@
     {
       "vehicle_name": "A-Yellow",
       "vehicle_id": 2002,
-      "vehicle_owner_id": 456,
+      "vehicle_owner_id": 1,
       "vehicle_uuid": "a25d40be-fc78-484e-876a-e7ac555e4a08",
       "vehicle_pub_key": "5DGPduMz36hSvPCfCPBsuGO78LEBdBtLVPhDdoe3xYE=",
       "shared_vehicle_data": {
