@@ -1091,7 +1091,7 @@
 {
       "vehicle_name": "Icon1.5_US",
       "vehicle_id": 5101,
-      "vehicle_owner_id": 456,
+      "vehicle_owner_id": 1,
       "vehicle_uuid": "e8405d67-cbb5-46f7-8717-78018afdb2fe",
       "vehicle_pub_key": "E7hGCNY+9k5a5P1W9V4B8R9Woui29xLFJbr8FCzOy0=",
       "shared_vehicle_data": {
@@ -1167,7 +1167,7 @@
 {
       "vehicle_name": "Icon1.5_US",
       "vehicle_id": 5102,
-      "vehicle_owner_id": 456,
+      "vehicle_owner_id": 1,
       "vehicle_uuid": "6be95990-8114-4c99-b8a3-a95162111a3f",
       "vehicle_pub_key": "v4DZJGoxNCHcTf4dGlip5mMzmfLOkTYEixMXes5+s84=",
       "shared_vehicle_data": {
@@ -1243,7 +1243,7 @@
 {
       "vehicle_name": "Icon1.5_US",
       "vehicle_id": 5103,
-      "vehicle_owner_id": 456,
+      "vehicle_owner_id": 1,
       "vehicle_uuid": "544239c2-c25d-40fd-8865-87cf6fa8b278",
       "vehicle_pub_key": "goJs17GsOxNZaOnTonc+/HBxxf5PdOTHbB6tEDSOUqE=",
       "shared_vehicle_data": {
@@ -1320,7 +1320,7 @@
 {
       "vehicle_name": "Icon1.5_US",
       "vehicle_id": 5104,
-      "vehicle_owner_id": 456,
+      "vehicle_owner_id": 1,
       "vehicle_uuid": "5903a32-9c5-4148-876b-1fd7aa775228",
       "vehicle_pub_key": "dyJ68fHYleLhTHmx221UERMoMi/mBBSKD+S7k7MIXEQ=",
       "shared_vehicle_data": {
@@ -1396,7 +1396,7 @@
 {
       "vehicle_name": "Icon1.5_US",
       "vehicle_id": 5105,
-      "vehicle_owner_id": 456,
+      "vehicle_owner_id": 1,
       "vehicle_uuid": "1003a78-00eb-421-918d-1543faac66cb",
       "vehicle_pub_key": "7Gwvp5wQTK1YKLdTkzI93vjgMB4RkOGMQMLKYpJHXwM=",
       "shared_vehicle_data": {
