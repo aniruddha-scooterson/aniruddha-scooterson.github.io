@@ -11,7 +11,7 @@
         "sharing_enabled": true,
         "is_request_pending": false,
         "idle_time_option": 60,
-        "max_assit_level": 2,
+        "max_assit_level": 1,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
           "address_line2": "Unit 12-34",
@@ -87,7 +87,7 @@
         "sharing_enabled": true,
         "is_request_pending": false,
         "idle_time_option": 60,
-        "max_assit_level": 2,
+        "max_assit_level": 1,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
           "address_line2": "Unit 12-34",
@@ -205,7 +205,7 @@
         "sharing_enabled": true,
         "is_request_pending": false,
         "idle_time_option": 60,
-        "max_assit_level": 2,
+        "max_assit_level": 1,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
           "address_line2": "Unit 12-34",
@@ -525,7 +525,7 @@
         "sharing_enabled": false,
         "is_request_pending": false,
         "idle_time_option": 60,
-        "max_assit_level": 2,
+        "max_assit_level": 1,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
           "address_line2": "Unit 12-34",
@@ -601,7 +601,7 @@
         "sharing_enabled": false,
         "is_request_pending": true,
         "idle_time_option": 60,
-        "max_assit_level": 2,
+        "max_assit_level": 1,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
           "address_line2": "Unit 12-34",
@@ -677,7 +677,7 @@
         "sharing_enabled": true,
         "is_request_pending": false,
         "idle_time_option": 60,
-        "max_assit_level": 2,
+        "max_assit_level": 1,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
           "address_line2": "Unit 12-34",
@@ -795,7 +795,7 @@
         "sharing_enabled": true,
         "is_request_pending": false,
         "idle_time_option": 60,
-        "max_assit_level": 2,
+        "max_assit_level": 1,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
           "address_line2": "Unit 12-34",
@@ -871,7 +871,7 @@
         "sharing_enabled": true,
         "is_request_pending": false,
         "idle_time_option": 60,
-        "max_assit_level": 2,
+        "max_assit_level": 1,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
           "address_line2": "Unit 12-34",
@@ -947,7 +947,7 @@
         "sharing_enabled": true,
         "is_request_pending": false,
         "idle_time_option": 60,
-        "max_assit_level": 2,
+        "max_assit_level": 1,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
           "address_line2": "Unit 12-34",
@@ -1023,7 +1023,7 @@
         "sharing_enabled": true,
         "is_request_pending": false,
         "idle_time_option": 60,
-        "max_assit_level": 2,
+        "max_assit_level": 1,
         "vehicle_owner_profile": {
           "address_line1": "789 Elm Street",
           "address_line2": "Unit 12-34",
