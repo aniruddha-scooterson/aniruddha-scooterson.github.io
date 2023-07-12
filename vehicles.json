@@ -195,7 +195,7 @@
       }
     },
     {
-      "vehicle_name": "A-Neon Yellow",
+      "vehicle_name": "A-Yellow",
       "vehicle_id": 2002,
       "vehicle_owner_id": 1,
       "vehicle_uuid": "a25d40be-fc78-484e-876a-e7ac555e4a08",
@@ -239,7 +239,7 @@
         "type": "Scooter",
         "manufacture": "Scooterson",
         "model_year": 2023,
-        "color": "NeonYellow",
+        "color": "Yellow",
         "dimension": {
           "width": 700,
           "height": 1040,
@@ -1083,6 +1083,387 @@
         "alarm_on": true,
         "last_sync": "12:40:31",
         "is_occupied": false,
+        "odo_meter": 324,
+        "trip_meter": 109,
+        "gear_mode": 16
+      }
+    },
+{
+      "vehicle_name": "Icon1.5_US",
+      "vehicle_id": 5101,
+      "vehicle_owner_id": 456,
+      "vehicle_uuid": "e8405d67-cbb5-46f7-8717-78018afdb2fe",
+      "vehicle_pub_key": "E7hGCNY+9k5a5P1W9V4B8R9Woui29xLFJbr8FCzOy0=",
+      "shared_vehicle_data": {
+        "is_ocuupied": false,
+        "sharing_enabled": true,
+        "is_request_pending": false,
+        "idle_time_option": 60,
+        "max_assit_level": 1,
+        "vehicle_owner_profile": {
+          "address_line1": "789 Elm Street",
+          "address_line2": "Unit 12-34",
+          "city": "United States",
+          "state": "",
+          "zipcode": "123456",
+          "email": "john.doe@example.com",
+          "mobile_number": "+65 9123 4567",
+          "name": {
+            "first_name": "Deepansh",
+            "last_name": "Jain"
+          },
+          "user_id": 456,
+          "birth_date": "1990-06-15",
+          "gender": "male",
+          "weight": 70,
+          "profile_pic_url_string": "https://i1.sndcdn.com/artworks-000128560053-3cpc8a-t500x500.jpg",
+          "profile_image": null,
+          "email_verified": true,
+          "user_address": {
+            "latitude": "1.3521",
+            "longitude": "103.8198"
+          },
+          "full_name": "Deepansh Jain",
+          "address": "789 Elm Street Unit 12-34",
+          "weight_in_kg": 70
+        }
+      },
+      "vehicle_info": {
+        "model": "Icon",
+        "type": "Golf Cart",
+        "manufacture": "IconEv",
+        "model_year": 2023,
+        "color": "Red",
+        "dimension": {
+          "width": 700,
+          "height": 1040,
+          "length": 1620
+        },
+        "parameters": {
+          "top_speed": 25,
+          "mileage": 80,
+          "power": 2
+        },
+        "configuration": {
+          "sn": "2323232121",
+          "motor": "pleasjsak",
+          "ecu": "sds23232232",
+          "gsm": "323242422",
+          "gps": "255:255:255.0"
+        }
+      },
+      "vehicle_status": {
+        "battery_percentage": 86,
+        "power_on": false,
+        "sharing_on": true,
+        "alarm_on": true,
+        "last_sync": "12:40:31",
+        "is_occupied": true,
+        "odo_meter": 324,
+        "trip_meter": 109,
+        "gear_mode": 16
+      }
+    },
+{
+      "vehicle_name": "Icon1.5_US",
+      "vehicle_id": 5102,
+      "vehicle_owner_id": 456,
+      "vehicle_uuid": "6be95990-8114-4c99-b8a3-a95162111a3f",
+      "vehicle_pub_key": "v4DZJGoxNCHcTf4dGlip5mMzmfLOkTYEixMXes5+s84=",
+      "shared_vehicle_data": {
+        "is_ocuupied": false,
+        "sharing_enabled": true,
+        "is_request_pending": false,
+        "idle_time_option": 60,
+        "max_assit_level": 1,
+        "vehicle_owner_profile": {
+          "address_line1": "789 Elm Street",
+          "address_line2": "Unit 12-34",
+          "city": "United States",
+          "state": "",
+          "zipcode": "123456",
+          "email": "john.doe@example.com",
+          "mobile_number": "+65 9123 4567",
+          "name": {
+            "first_name": "Deepansh",
+            "last_name": "Jain"
+          },
+          "user_id": 456,
+          "birth_date": "1990-06-15",
+          "gender": "male",
+          "weight": 70,
+          "profile_pic_url_string": "https://i1.sndcdn.com/artworks-000128560053-3cpc8a-t500x500.jpg",
+          "profile_image": null,
+          "email_verified": true,
+          "user_address": {
+            "latitude": "1.3521",
+            "longitude": "103.8198"
+          },
+          "full_name": "Deepansh Jain",
+          "address": "789 Elm Street Unit 12-34",
+          "weight_in_kg": 70
+        }
+      },
+      "vehicle_info": {
+        "model": "Icon",
+        "type": "Golf Cart",
+        "manufacture": "IconEv",
+        "model_year": 2023,
+        "color": "Orange",
+        "dimension": {
+          "width": 700,
+          "height": 1040,
+          "length": 1620
+        },
+        "parameters": {
+          "top_speed": 25,
+          "mileage": 80,
+          "power": 2
+        },
+        "configuration": {
+          "sn": "2323232121",
+          "motor": "pleasjsak",
+          "ecu": "sds23232232",
+          "gsm": "323242422",
+          "gps": "255:255:255.0"
+        }
+      },
+      "vehicle_status": {
+        "battery_percentage": 86,
+        "power_on": false,
+        "sharing_on": true,
+        "alarm_on": true,
+        "last_sync": "12:40:31",
+        "is_occupied": true,
+        "odo_meter": 324,
+        "trip_meter": 109,
+        "gear_mode": 16
+      }
+    },
+{
+      "vehicle_name": "Icon1.5_US",
+      "vehicle_id": 5103,
+      "vehicle_owner_id": 456,
+      "vehicle_uuid": "544239c2-c25d-40fd-8865-87cf6fa8b278",
+      "vehicle_pub_key": "goJs17GsOxNZaOnTonc+/HBxxf5PdOTHbB6tEDSOUqE=",
+      "shared_vehicle_data": {
+        "is_ocuupied": false,
+        "sharing_enabled": true,
+        "is_request_pending": false,
+        "idle_time_option": 60,
+        "max_assit_level": 1,
+        "vehicle_owner_profile": {
+          "address_line1": "789 Elm Street",
+          "address_line2": "Unit 12-34",
+          "city": "United States",
+          "state": "",
+          "zipcode": "123456",
+          "email": "john.doe@example.com",
+          "mobile_number": "+65 9123 4567",
+          "name": {
+            "first_name": "Deepansh",
+            "last_name": "Jain"
+          },
+          "user_id": 456,
+          "birth_date": "1990-06-15",
+          "gender": "male",
+          "weight": 70,
+          "profile_pic_url_string": "https://i1.sndcdn.com/artworks-000128560053-3cpc8a-t500x500.jpg",
+          "profile_image": null,
+          "email_verified": true,
+          "user_address": {
+            "latitude": "1.3521",
+            "longitude": "103.8198"
+          },
+          "full_name": "Deepansh Jain",
+          "address": "789 Elm Street Unit 12-34",
+          "weight_in_kg": 70
+        }
+      },
+      "vehicle_info": {
+        "model": "Icon",
+        "type": "Golf Cart",
+        "manufacture": "IconEv",
+        "model_year": 2023,
+        "color": "Green",
+        "dimension": {
+          "width": 700,
+          "height": 1040,
+          "length": 1620
+        },
+        "parameters": {
+          "top_speed": 25,
+          "mileage": 80,
+          "power": 2
+        },
+        "configuration": {
+          "sn": "2323232121",
+          "motor": "pleasjsak",
+          "ecu": "sds23232232",
+          "gsm": "323242422",
+          "gps": "255:255:255.0"
+        }
+      },
+      "vehicle_status": {
+        "battery_percentage": 86,
+        "power_on": false,
+        "sharing_on": true,
+        "alarm_on": true,
+        "last_sync": "12:40:31",
+        "is_occupied": true,
+        "odo_meter": 324,
+        "trip_meter": 109,
+        "gear_mode": 16
+      }
+    },
+
+{
+      "vehicle_name": "Icon1.5_US",
+      "vehicle_id": 5104,
+      "vehicle_owner_id": 456,
+      "vehicle_uuid": "5903a32-9c5-4148-876b-1fd7aa775228",
+      "vehicle_pub_key": "dyJ68fHYleLhTHmx221UERMoMi/mBBSKD+S7k7MIXEQ=",
+      "shared_vehicle_data": {
+        "is_ocuupied": false,
+        "sharing_enabled": true,
+        "is_request_pending": false,
+        "idle_time_option": 60,
+        "max_assit_level": 1,
+        "vehicle_owner_profile": {
+          "address_line1": "789 Elm Street",
+          "address_line2": "Unit 12-34",
+          "city": "United States",
+          "state": "",
+          "zipcode": "123456",
+          "email": "john.doe@example.com",
+          "mobile_number": "+65 9123 4567",
+          "name": {
+            "first_name": "Deepansh",
+            "last_name": "Jain"
+          },
+          "user_id": 456,
+          "birth_date": "1990-06-15",
+          "gender": "male",
+          "weight": 70,
+          "profile_pic_url_string": "https://i1.sndcdn.com/artworks-000128560053-3cpc8a-t500x500.jpg",
+          "profile_image": null,
+          "email_verified": true,
+          "user_address": {
+            "latitude": "1.3521",
+            "longitude": "103.8198"
+          },
+          "full_name": "Deepansh Jain",
+          "address": "789 Elm Street Unit 12-34",
+          "weight_in_kg": 70
+        }
+      },
+      "vehicle_info": {
+        "model": "Icon",
+        "type": "Golf Cart",
+        "manufacture": "IconEv",
+        "model_year": 2023,
+        "color": "Purple",
+        "dimension": {
+          "width": 700,
+          "height": 1040,
+          "length": 1620
+        },
+        "parameters": {
+          "top_speed": 25,
+          "mileage": 80,
+          "power": 2
+        },
+        "configuration": {
+          "sn": "2323232121",
+          "motor": "pleasjsak",
+          "ecu": "sds23232232",
+          "gsm": "323242422",
+          "gps": "255:255:255.0"
+        }
+      },
+      "vehicle_status": {
+        "battery_percentage": 86,
+        "power_on": false,
+        "sharing_on": true,
+        "alarm_on": true,
+        "last_sync": "12:40:31",
+        "is_occupied": true,
+        "odo_meter": 324,
+        "trip_meter": 109,
+        "gear_mode": 16
+      }
+    },
+{
+      "vehicle_name": "Icon1.5_US",
+      "vehicle_id": 5105,
+      "vehicle_owner_id": 456,
+      "vehicle_uuid": "1003a78-00eb-421-918d-1543faac66cb",
+      "vehicle_pub_key": "7Gwvp5wQTK1YKLdTkzI93vjgMB4RkOGMQMLKYpJHXwM=",
+      "shared_vehicle_data": {
+        "is_ocuupied": false,
+        "sharing_enabled": true,
+        "is_request_pending": false,
+        "idle_time_option": 60,
+        "max_assit_level": 1,
+        "vehicle_owner_profile": {
+          "address_line1": "789 Elm Street",
+          "address_line2": "Unit 12-34",
+          "city": "United States",
+          "state": "",
+          "zipcode": "123456",
+          "email": "john.doe@example.com",
+          "mobile_number": "+65 9123 4567",
+          "name": {
+            "first_name": "Deepansh",
+            "last_name": "Jain"
+          },
+          "user_id": 456,
+          "birth_date": "1990-06-15",
+          "gender": "male",
+          "weight": 70,
+          "profile_pic_url_string": "https://i1.sndcdn.com/artworks-000128560053-3cpc8a-t500x500.jpg",
+          "profile_image": null,
+          "email_verified": true,
+          "user_address": {
+            "latitude": "1.3521",
+            "longitude": "103.8198"
+          },
+          "full_name": "Deepansh Jain",
+          "address": "789 Elm Street Unit 12-34",
+          "weight_in_kg": 70
+        }
+      },
+      "vehicle_info": {
+        "model": "Icon",
+        "type": "Golf Cart",
+        "manufacture": "IconEv",
+        "model_year": 2023,
+        "color": "Indigo",
+        "dimension": {
+          "width": 700,
+          "height": 1040,
+          "length": 1620
+        },
+        "parameters": {
+          "top_speed": 25,
+          "mileage": 80,
+          "power": 2
+        },
+        "configuration": {
+          "sn": "2323232121",
+          "motor": "pleasjsak",
+          "ecu": "sds23232232",
+          "gsm": "323242422",
+          "gps": "255:255:255.0"
+        }
+      },
+      "vehicle_status": {
+        "battery_percentage": 86,
+        "power_on": false,
+        "sharing_on": true,
+        "alarm_on": true,
+        "last_sync": "12:40:31",
+        "is_occupied": true,
         "odo_meter": 324,
         "trip_meter": 109,
         "gear_mode": 16
