@@ -1468,7 +1468,7 @@
 			}
 		},
 		{
-			"vehicle_name": "Qatar Yellow",
+			"vehicle_name": "Qatar N-Yellow",
 			"vehicle_id": 3345,
 			"vehicle_owner_id": 1,
 			"vehicle_uuid": "52a80b50-f16b-47ef-80fb-b8d1a434601e",
@@ -1512,7 +1512,7 @@
 				"type": "Scooter",
 				"manufacture": "Scooterson",
 				"model_year": 2023,
-				"color": "Yellow",
+				"color": "NeonYellow",
 				"dimension": {
 					"width": 700,
 					"height": 1040,
