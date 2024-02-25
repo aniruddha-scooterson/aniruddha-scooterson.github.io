@@ -1058,8 +1058,8 @@
       "vehicle_name": "Demo IconX",
       "vehicle_id": 1023,
       "vehicle_owner_id": 456,
-      "vehicle_uuid": "bede49fa-f3ba-4c95-a0ce-bebafe360ecc",
-      "vehicle_pub_key": "EMcSkgLdoq|sOxh05D3YfzGGUzLBgikeOTHEuTSPfLU=",
+      "vehicle_uuid": "6ede49fa-f3ba-4c95-a0ce-bebafe360ecc",
+      "vehicle_pub_key": "EMcSkgLdoqlsOxh05D3YfzGGUzLBgikeOTHEuTSPfLU=",
       "shared_vehicle_data": {
         "is_ocuupied": false,
         "sharing_enabled": true,
