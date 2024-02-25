@@ -1055,11 +1055,11 @@
       }
     },
     {
-      "vehicle_name": "Wei IconX",
+      "vehicle_name": "Demo IconX",
       "vehicle_id": 1023,
       "vehicle_owner_id": 456,
-      "vehicle_uuid": "7389fb56-c262-4ba7-87a3-5f34c59fc9da",
-      "vehicle_pub_key": "PXViKQ06bS1BRwQq3rGSGll+Muj1sBTl7bMgp8AJ/C8=",
+      "vehicle_uuid": "bede49fa-f3ba-4c95-a0ce-bebafe360ecc",
+      "vehicle_pub_key": "EMcSkgLdoq|sOxh05D3YfzGGUzLBgikeOTHEuTSPfLU=",
       "shared_vehicle_data": {
         "is_ocuupied": false,
         "sharing_enabled": true,
