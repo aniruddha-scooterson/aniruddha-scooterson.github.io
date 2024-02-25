@@ -1057,7 +1057,7 @@
     {
       "vehicle_name": "Demo IconX",
       "vehicle_id": 1023,
-      "vehicle_owner_id": 456,
+      "vehicle_owner_id": 1,
       "vehicle_uuid": "6ede49fa-f3ba-4c95-a0ce-bebafe360ecc",
       "vehicle_pub_key": "EMcSkgLdoqlsOxh05D3YfzGGUzLBgikeOTHEuTSPfLU=",
       "shared_vehicle_data": {
